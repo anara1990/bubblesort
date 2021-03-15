@@ -3,7 +3,7 @@
 //ить свой проект в git(Дз отправляете как ссылку на свой репозиторий)
 
 fun main(){
-    val array = arrayOf(10, 2, 10, 3, 1, 2, 5, 2,-1, 3)
+    val array = arrayOf(10, 2, 10, 3, 1, 2, -5, 2,-1, 3)
     
     bubbleSort(array)
     //array.sort()
